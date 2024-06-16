@@ -61,5 +61,5 @@ Con esta aplicación, puedes convertir fácilmente entre diferentes monedas util
 
 1. Clona el repositorio:
    ```sh
-   git clone https://github.com/tu_usuario/tu_repositorio.git
+   https://github.com/AgustinPL-cmd/conversor-de-monedas
 
