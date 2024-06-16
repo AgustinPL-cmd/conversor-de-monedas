@@ -18,25 +18,34 @@ Con esta aplicación, puedes convertir fácilmente entre diferentes monedas util
 
 ## 📸 Capturas de Pantalla
 
-<a href="https://ibb.co/pdHVnNL"><img widht = 100% src="https://i.ibb.co/x6n93w7/image.png" alt="image" border="0"></a>
+<a href="https://ibb.co/pdHVnNL"><img width = 100% src="https://i.ibb.co/x6n93w7/image.png" alt="image" border="0"></a>
 *PANTALL PRINCIPAL*
+<br>
+<br>
 
-<a href="https://ibb.co/wdjZ8Qc"><img widht = 100% src="https://i.ibb.co/XWMf65Y/image.png" alt="image" border="0"></a>
+<a href="https://ibb.co/wdjZ8Qc"><img width = 100% src="https://i.ibb.co/XWMf65Y/image.png" alt="image" border="0"></a>
 *Elige la moneda a convertir y la cantidad*
+<br>
+<br>
 
 <a href="https://ibb.co/dG6DrXT"><img width = 100% src="https://i.ibb.co/Ln618BF/image.png" alt="image" border="0"></a>
 *Elige la moneda a la cual convertir*
+<br>
+<br>
 
 <a href="https://imgbb.com/"><img  widht = 100% src="https://i.ibb.co/0y9fwk8/image.png" alt="image" border="0"></a>
 *RESULTADO de la conversión*
+<br>
+<br>
 
 <a href="https://ibb.co/Kbtbd6J"><img width = 100% src="https://i.ibb.co/hLGLbsS/image.png" alt="image" border="0"></a>
 *Sale del programa y se muestra el Historial y la hora en la que se hizo la conversión*
-
+<br>
+<br>
 
 ## 🎥 Video Demo
 
-<a href="https://ibb.co/T2Hwpyv"><img src="https://i.ibb.co/c3NyMqg/Dise-o-sin-t-tulo.gif" alt="Dise-o-sin-t-tulo" border="0"></a>
+<a href="https://ibb.co/T2Hwpyv"><img widht = 100% src="https://i.ibb.co/c3NyMqg/Dise-o-sin-t-tulo.gif" alt="Dise-o-sin-t-tulo" border="0"></a>
 *Haz clic para ver el vídeo*
 
 ## 🛠️ Tecnologías Utilizadas
